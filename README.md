@@ -4,5 +4,14 @@ Contains some very cool MATLAB projects that I have done in Ocean Engineering.
 
 The codes contain Navier Stokes Equations, Bernoulli equations, wave equation, SPM & CEM equations that are necessary to calculate waves speeds, directions, forces, vorticity, forecasting etc. 
 
-Results and images of various code are under "issues."
+Hurricane Forecasting Result Example:
+
+
+
+
+Velocity Profile Results:
+
+
+
+
 
