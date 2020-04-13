@@ -20,9 +20,9 @@ Velocity Profile Results:
 
 ![](images/Velocity%20Profile.png)
 
-TIde Plot Example Result:
+Tide Plot Example Result:
 
-![](images/Tide_Plot.png) 
+![](images/Tide_Plot.png)
 
 
 
