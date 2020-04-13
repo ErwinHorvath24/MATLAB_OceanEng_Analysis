@@ -14,11 +14,11 @@ Hurricane Forecasting Result Example:
 
 ![](images/Hurricane_Andrew_CEM_Before.png)
 
-![](images/Hurricane Criteria.png)
+![](images/Hurricane%20Criteria.png)
 
 Velocity Profile Results:
 
-![](images/Velocity Profile.png)
+![](images/Velocity%20Profile.png)
 
 TIde Plot Example Result:
 
