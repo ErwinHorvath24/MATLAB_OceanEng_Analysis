@@ -10,12 +10,20 @@ Hurricane Forecasting Result Example:
 
 ![](images/Hurricane_Andrew_SPM_Before.png)
 
+![](images/Hurricane_Andrew_SPM_Land.png)
 
+![](images/Hurricane_Andrew_CEM_Before.png)
 
-
-
+![](images/Hurricane Criteria.png)
 
 Velocity Profile Results:
+
+![](images/Velocity Profile.png)
+
+TIde Plot Example Result:
+
+![](images/Tide_Plot.png) 
+
 
 
 
