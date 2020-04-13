@@ -6,6 +6,8 @@ The codes contain Navier Stokes Equations, Bernoulli equations, wave equation, S
 
 **Wave Tool will calculate just about every variable if you input some basic wave characteristics that are usually found in buoy data plots.
 
+A few example results from the code:
+
 Hurricane Forecasting Result Example:
 
 ![](images/Hurricane_Andrew_SPM_Before.png)
@@ -20,9 +22,7 @@ Velocity Profile Results:
 
 ![](images/Velocity%20Profile.png)
 
-Tide Plot Example Result:
 
-![](images/Tide_Plot.png)
 
 
 
