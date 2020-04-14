@@ -2,13 +2,11 @@
 % Wave Tool
 % 09/06/2017
 
-%To run function
+%To run function, save file:
 %Copy this to your command window:
-%HorvathErwin_Wave_Tool(10,2,20,10,0.02,5,-2.5);
+Wave_Tool(10,2,20,10,0.02,5,-2.5); 
 %Then hit enter
 
-%For HW 3
-%%HorvathErwin_Wave_Tool(10,3,30,8,0,0,0);
 
 %-----------------------------------START---------------------------------%
 function [L,H_b,L2]=HorvathErwin_Wave_Tool(d1,H1,a1,T,B,d2,z2);
