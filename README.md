@@ -16,7 +16,7 @@ Hurricane Forecasting Result Example:
 
 ![](images/Hurricane%20Criteria.png)
 
-Velocity Profile Results:
+Velocity\Acceleration\Pressure Profile Results:
 
 ![](images/Velocity%20Profile.png)
 
