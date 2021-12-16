@@ -1,4 +1,4 @@
-# MatLab-Creations
+# MATLAB-Ocean Engineering Projects
 MATLAB coding projects related to ocean engineering.
 
 For equations and graphs please refer to the Shore Protection Manual (SPM) or the Coastal Engineering Manual (CEM). Both can be obtained online. 
